@@ -1,0 +1,20 @@
+.wrapper__btn--default {
+  width: 280px;
+  height: 62px;
+  font-size: 1.6rem;
+  color: $btn-font;
+  border-radius: 1rem;
+  text-align: center;
+  padding: 2rem;
+  position: relative;
+  background: linear-gradient(to top, #743ad5, #d53a9d);
+  padding: .3rem;
+
+}
+.module {
+  cursor: pointer;
+  border-radius: .7rem;
+  background:$white;
+  color: $btn-font;
+  padding: 0.7rem;
+}
